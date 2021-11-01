@@ -10,6 +10,10 @@ for (const name in estudiante) {
     console.log(`llave: ${name}\n valor: ${estudiante[name]}`);
 }
 console.log("--------------------------");
+
+
 for (const name2 of numeros) {
     console.log(`numero = ${name2}`);
 }
+
+console.log("el for in sirve mas que todo para objetos y el for of para listas que son iterables");

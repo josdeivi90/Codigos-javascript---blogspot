@@ -1,0 +1,15 @@
+{
+    "id": "1234234",
+    "name": "Anna",
+    "last_name": "Smith",
+    "program": "Engineering",
+    "subjects": [{
+            "name": "Calculus",
+            "grade": 4.0
+        },
+        {
+            "name": "Introduction to Engineering",
+            "grade": 4.9
+        }
+    ]
+}
