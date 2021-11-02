@@ -1,0 +1,31 @@
+{
+  "Paises": [
+    {
+      "País": "Canada",
+      "Capital": "Otawwa",
+      "Moneda": "Dólar Canadiense",
+      "Población": "38 Millones de habitantes"
+    },
+    {
+      "País": "Estados Unidos",
+      "Capital": "Washington D. C.",
+      "Moneda": "Dólar Estadounidense",
+      "Población": "330 Millones de habitantes",
+      "Vecinos": [
+        {
+          "nombre": "México"
+        },
+        {
+          "nombre": "Cánada"
+        }
+      ]
+    },
+    {
+      "País": "México",
+      "Capital": "Ciudad de México",
+      "Moneda": "Peso Mexicano",
+      "Población": "129 Millones de habitantes",
+      "Presidente": "Lopez obrador"
+    }
+  ]
+}
